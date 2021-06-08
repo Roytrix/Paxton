@@ -7,3 +7,4 @@ In the 19th century gardeners began to build large greenhouses or conservatories
 * angular SPA WPA app
 * electron android iphone mac windows linux 
 * ngx-bootstrap
+* https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular?view=aspnetcore-5.0&tabs=visual-studio
